@@ -1,2 +1,2 @@
 # sdr-modrec
-Modulation Recognition
+Modulation Recognition for Software Defined Radios (SDR)
