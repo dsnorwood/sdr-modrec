@@ -1,0 +1,14 @@
+looking for features in radio waves ... 
+
+From papers I've read, here is what I'm gathering:
+
+cyclic-moments: O'Shea
+	https://arxiv.org/pdf/1602.04105.pdf
+
+cyclic-cumulants: Spooner's response to O'Shea (directly commenting on his paper above)
+	https://cyclostationary.blog/2017/01/31/machine-learning-and-modulation-recognition-comments-on-convolutional-radio-modulation-recognition-networks-by-t-oshea-j-corgan-and-t-clancy/
+
+ditial modulation classification for SDR, PhD 
+	http://www.ece.neu.edu/personal/meleis/watson-thesis.pdf
+
+
